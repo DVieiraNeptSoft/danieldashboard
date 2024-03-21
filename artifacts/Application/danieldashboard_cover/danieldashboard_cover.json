@@ -1,0 +1,420 @@
+{
+	"id": "dc1c9892-15e5-ee11-aaee-000d3a64f286",
+	"createdAt": "2024-03-18T10:52:15.496Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "d0bb0d8c-61de-4933-fc59-8c19c9128159",
+			"fieldName": "headerFlexBox",
+			"fieldParent": 0,
+			"fieldType": "sap.m.FlexBox",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "ba492c68-9d31-4111-c2c3-c75a1797ecb3",
+					"fieldName": "VBox",
+					"fieldParent": "d0bb0d8c-61de-4933-fc59-8c19c9128159",
+					"fieldType": "sap.m.VBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "74c5cee7-70e8-42bb-a08d-fe04e6db6c8b",
+							"fieldName": "titleHBox",
+							"fieldParent": "ba492c68-9d31-4111-c2c3-c75a1797ecb3",
+							"fieldType": "sap.m.HBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "styleClassMargin",
+									"grouping": "Properties",
+									"value": "sapUiSmallMargin",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "bedef31b-c894-4f64-e100-b6bf18261f23",
+									"fieldName": "Text",
+									"fieldParent": "74c5cee7-70e8-42bb-a08d-fe04e6db6c8b",
+									"fieldType": "sap.m.Text",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "Journey to",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "de38c74d-4ca4-4be3-c9bb-91bf9b5e4543",
+									"fieldName": "Text1",
+									"fieldParent": "74c5cee7-70e8-42bb-a08d-fe04e6db6c8b",
+									"fieldType": "sap.m.Text",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "Net-Zero Carbon",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "e2e004f1-d4a4-494c-b1c4-ffa68c3f3278",
+									"fieldName": "Text2",
+									"fieldParent": "74c5cee7-70e8-42bb-a08d-fe04e6db6c8b",
+									"fieldType": "sap.m.Text",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "2035",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						},
+						{
+							"fieldNo": "50305df3-b320-43aa-e882-e7cae78962fd",
+							"fieldName": "metricsHBox",
+							"fieldParent": "ba492c68-9d31-4111-c2c3-c75a1797ecb3",
+							"fieldType": "sap.m.HBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": "365eb265-bbe1-4d60-c850-f8ec1de58668",
+			"fieldName": "toolbarFlexBox",
+			"fieldParent": 0,
+			"fieldType": "sap.m.FlexBox",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "f74fe440-2d3e-4b73-cffb-72a4cd497d80",
+					"fieldName": "beginToolbarHBox",
+					"fieldParent": "365eb265-bbe1-4d60-c850-f8ec1de58668",
+					"fieldType": "sap.m.HBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "4a4230c7-74b6-4643-b481-5a9daff950e2",
+					"fieldName": "endToolbarHBox",
+					"fieldParent": "365eb265-bbe1-4d60-c850-f8ec1de58668",
+					"fieldType": "sap.m.HBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": "617b0a54-ccf0-4c7d-feab-f7d548d85737",
+			"fieldName": "dashboardFlexBox",
+			"fieldParent": 0,
+			"fieldType": "sap.m.FlexBox",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "width",
+					"grouping": "Properties",
+					"value": "100%",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "fitContainer",
+					"grouping": "Properties",
+					"value": "true",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": [
+				{
+					"fieldNo": "ba52c7c7-2520-4a21-bcff-15c50c8b1af0",
+					"fieldName": "VBox1",
+					"fieldParent": "617b0a54-ccf0-4c7d-feab-f7d548d85737",
+					"fieldType": "sap.m.VBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "800px",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClassMargin",
+							"grouping": "Properties",
+							"value": "sapUiSmallMargin",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "1a36632d-69e4-4be3-8352-0c7c8e823180",
+							"fieldName": "Title",
+							"fieldParent": "ba52c7c7-2520-4a21-bcff-15c50c8b1af0",
+							"fieldType": "sap.m.Title",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Energy Consumption",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "440de756-86a4-4e59-aad8-7c9df9983518",
+							"fieldName": "AiChart",
+							"fieldParent": "ba52c7c7-2520-4a21-bcff-15c50c8b1af0",
+							"fieldType": "neptune.chart.aichart",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "afterRendering",
+									"grouping": "Events",
+									"value": "Anonymous Function",
+									"script": "file://event/neptune.chart.aichart/AiChart/afterRendering.js",
+									"language": "javascript",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "edd6b5de-4121-4843-f7e9-22ef327eaae4",
+					"fieldName": "VBox2",
+					"fieldParent": "617b0a54-ccf0-4c7d-feab-f7d548d85737",
+					"fieldType": "sap.m.VBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "styleClassMargin",
+							"grouping": "Properties",
+							"value": "sapUiSmallMargin",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "0c426493-3e09-4f0d-b0fb-793c9449a49d",
+							"fieldName": "Title1",
+							"fieldParent": "edd6b5de-4121-4843-f7e9-22ef327eaae4",
+							"fieldType": "sap.m.Title",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Energy Consumption",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "b6dd1418-f878-4945-d9b6-ab4e132fbef7",
+							"fieldName": "AiChart1",
+							"fieldParent": "edd6b5de-4121-4843-f7e9-22ef327eaae4",
+							"fieldType": "neptune.chart.aichart",
+							"script": "",
+							"customComponent": false,
+							"disabled": true,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "effe888a-a60e-4510-b29c-4137ee3a258b",
+					"fieldName": "VBox3",
+					"fieldParent": "617b0a54-ccf0-4c7d-feab-f7d548d85737",
+					"fieldType": "sap.m.VBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "styleClassMargin",
+							"grouping": "Properties",
+							"value": "sapUiSmallMargin",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "800d8b3b-489c-49de-a1ec-407505729b05",
+							"fieldName": "Title2",
+							"fieldParent": "effe888a-a60e-4510-b29c-4137ee3a258b",
+							"fieldType": "sap.m.Title",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Energy Consumption",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "e81dc0d1-9901-41c9-9d26-f0b13f8903cc",
+							"fieldName": "AiChart2",
+							"fieldParent": "effe888a-a60e-4510-b29c-4137ee3a258b",
+							"fieldType": "neptune.chart.aichart",
+							"script": "",
+							"customComponent": false,
+							"disabled": true,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "24.3.20.1832",
+	"application": "danieldashboard_cover",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": true,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"apis": [],
+	"package": "c82a7e87-15e5-ee11-aaee-000d3a64f286"
+}

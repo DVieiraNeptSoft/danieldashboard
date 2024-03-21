@@ -1,0 +1,51 @@
+{
+	"id": "c82a7e87-15e5-ee11-aaee-000d3a64f286",
+	"createdAt": "2024-03-18T10:51:53.546Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/DVieiraNeptSoft/danieldashboard"
+	},
+	"name": "danieldashboard",
+	"description": null,
+	"ver": "24.3.21.1438",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "dc1c9892-15e5-ee11-aaee-000d3a64f286",
+			"application": "danieldashboard_cover",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "C82A7E87-15E5-EE11-AAEE-000D3A64F286"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
